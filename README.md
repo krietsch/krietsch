@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="1000" src="./DATA/Monti.jpg">
-</p>  
-
 Hello there 👋
 
 I'm a PhD student at the [Max Planck Institute for Ornithology](https://www.bi.mpg.de/person/115830/1506857) which mainly works with spatial and behavioural data. 
