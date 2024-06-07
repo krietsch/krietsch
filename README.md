@@ -1,6 +1,6 @@
 Hello there 👋
 
-I'm a postdoc at the [NIOZ Royal Netherlands Institute for Sea Research]([https://www.bi.mpg.de/person/115830/1506857](https://www.nioz.nl/en)) which mainly works with spatial and behavioural data. 
+I'm a postdoc at the [NIOZ Royal Netherlands Institute for Sea Research](https://www.nioz.nl/en]) which mainly works with spatial and behavioural data. 
 
 [![Email](https://img.shields.io/badge/Email-j.krietsch@gmx.de-blue?style=for-the-badge)](mailto:j.krietsch@gmx.de)
 [![Orcid](https://img.shields.io/badge/Orcid-gray?style=for-the-badge&logo=ORCID)](https://orcid.org/0000-0002-8080-1734)
