@@ -7,6 +7,7 @@ I'm a postdoc at the [NIOZ Royal Netherlands Institute for Sea Research](https:/
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.it/citations?user=1VDhHe0AAAAJ&hl=de&oi=ao)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Johannes-Krietsch)
 
+<img src="data/R_package_banner.png" alt="Description" width="700">
 
 <!--
 **krietsch/krietsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
